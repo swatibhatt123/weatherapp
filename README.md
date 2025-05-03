@@ -1,2 +1,2 @@
-# Weather Forcast ☁️☀️☀
-This a a weather forcast app which work on API
+# Weather Forecast ☁️☀️☀
+This a a weather forecast app which work on API
